@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/blink](https://draculatheme.com/blink).
+All instructions can be found at [draculatheme.com/blink](https://draculatheme.com/blink-shell).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/blink/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/blink-shell/graphs/contributors).
 
 | [![yuys13](https://avatars.githubusercontent.com/u/29335192?v=3&s=70)](https://github.com/yuys13) |
 | ---------------------------------------------------------------------------------------- |
